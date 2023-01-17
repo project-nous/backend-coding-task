@@ -1,0 +1,30 @@
+[
+  {
+    "householdId": "4n0m",
+    "providerName": "Barclays Mortgages",
+    "currentFixedRateEndMonth": "6",
+    "currentFixedRateEndYear": "20",
+    "outstandingLoanAmount": "40000000"
+  },
+  {
+    "householdId": "8z16",
+    "providerName": "Nationwide Mortgages",
+    "currentFixedRateEndMonth": "8",
+    "currentFixedRateEndYear": "22",
+    "outstandingLoanAmount": "34000000"
+  },
+  {
+    "householdId": "zl59",
+    "providerName": "Nationwide Mortgages",
+    "currentFixedRateEndMonth": "8",
+    "currentFixedRateEndYear": "22",
+    "outstandingLoanAmount": "67200000"
+  },
+  {
+    "householdId": "gsth",
+    "providerName": "TSB Mortgages",
+    "currentFixedRateEndMonth": "5",
+    "currentFixedRateEndYear": "22",
+    "outstandingLoanAmount": "14500000"
+  }
+]

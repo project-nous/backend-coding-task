@@ -1,0 +1,82 @@
+[
+  {
+    "householdId": "6w95",
+    "providerName": "Coventry BS Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "842100",
+      "next12MonthsSpend": "785100"
+    }
+  },
+  {
+    "householdId": "gsth",
+    "providerName": "Barclays Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "609600",
+      "next12MonthsSpend": "602900"
+    }
+  },
+  {
+    "householdId": "klyv",
+    "providerName": "Virgin Money Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "219700",
+      "next12MonthsSpend": "205800"
+    }
+  },
+  {
+    "householdId": "4n0m",
+    "providerName": "Halifax Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "14239",
+      "next12MonthsSpend": "14749"
+    }
+  },
+  {
+    "householdId": "zl59",
+    "providerName": "Nationwide Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "18276",
+      "next12MonthsSpend": "17726"
+    }
+  },
+  {
+    "householdId": "bwq5",
+    "providerName": "Nationwide Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "23524",
+      "next12MonthsSpend": "21898"
+    }
+  },
+  {
+    "householdId": "yjwu",
+    "providerName": "Virgin Money Mortgages",
+    "forecast": {
+      "last12MonthsSpend": null,
+      "next12MonthsSpend": null
+    }
+  },
+  {
+    "householdId": "4mbx",
+    "providerName": "TSB Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "4623800",
+      "next12MonthsSpend": "4629600"
+    }
+  },
+  {
+    "householdId": "85f4",
+    "providerName": "Nationwide Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "695300",
+      "next12MonthsSpend": "688000"
+    }
+  },
+  {
+    "householdId": "m2zy",
+    "providerName": "Santander Mortgages",
+    "forecast": {
+      "last12MonthsSpend": "421900",
+      "next12MonthsSpend": "420800"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "householdId": "85f4",
+    "providerName": "Halifax Mortgages",
+    "monthlySpend": "150000",
+    "outstandingLoanAmount": "25000000"
+  },
+  {
+    "householdId": "d744",
+    "providerName": "Santander Mortgages",
+    "monthlySpend": "170000",
+    "outstandingLoanAmount": "40000000"
+  },
+  {
+    "householdId": "4mbx",
+    "providerName": "TSB Mortgages",
+    "monthlySpend": "162000",
+    "outstandingLoanAmount": "42000000"
+  },
+  {
+    "householdId": "m2zy",
+    "providerName": "Nationwide Mortgages",
+    "monthlySpend": "113000",
+    "outstandingLoanAmount": "15000000"
+  },
+  {
+    "householdId": "6w95",
+    "providerName": "Nationwide Mortgages",
+    "monthlySpend": "250000",
+    "outstandingLoanAmount": "78200000"
+  },
+  {
+    "householdId": "zl59",
+    "providerName": "Barclays Mortgages",
+    "monthlySpend": "92300",
+    "outstandingLoanAmount": "26700000"
+  },
+  {
+    "householdId": "yjwu",
+    "providerName": "NatWest Mortgages",
+    "monthlySpend": "120000",
+    "outstandingLoanAmount": "31100000"
+  },
+  {
+    "householdId": "wqsi",
+    "providerName": "Halifax Mortgages",
+    "monthlySpend": "234000",
+    "outstandingLoanAmount": "68900000"
+  },
+  {
+    "householdId": "6w95",
+    "providerName": "Coventry BS Mortgages",
+    "monthlySpend": "890000",
+    "outstandingLoanAmount": "123000000"
+  },
+  {
+    "householdId": "wog3",
+    "providerName": "Barclays Mortgages",
+    "monthlySpend": "300100",
+    "outstandingLoanAmount": "65000000"
+  }
+]
