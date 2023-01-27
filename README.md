@@ -29,7 +29,7 @@ Your task is to write code to resolve the collated mortgage dataset for all hous
 3. Write another function to resolve the outstanding loan amount for any given household according to this rule:
    - Data from manual input takes precedence over data from our mortgage calculator tool
 
-4. Write a function to calculate the decrease in the outstanding loan amount of the next 12 months under the following assumption:
+4. Write a function to calculate the decrease in the outstanding loan amount over the next 12 months under the following assumption:
    - 88% of the monthly spend on a mortgage goes towards paying off the loan
 
 Please write your solution as you would normally write production ready software.
