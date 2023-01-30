@@ -27,24 +27,24 @@
     "householdId": "4n0m",
     "providerName": "Halifax Mortgages",
     "forecast": {
-      "last12MonthsSpend": "14239",
-      "next12MonthsSpend": "14749"
+      "last12MonthsSpend": "1423900",
+      "next12MonthsSpend": "1474900"
     }
   },
   {
     "householdId": "zl59",
     "providerName": "Nationwide Mortgages",
     "forecast": {
-      "last12MonthsSpend": "18276",
-      "next12MonthsSpend": "17726"
+      "last12MonthsSpend": "1827600",
+      "next12MonthsSpend": "1772600"
     }
   },
   {
     "householdId": "bwq5",
     "providerName": "Nationwide Mortgages",
     "forecast": {
-      "last12MonthsSpend": "23524",
-      "next12MonthsSpend": "21898"
+      "last12MonthsSpend": "2352400",
+      "next12MonthsSpend": "2189800"
     }
   },
   {
