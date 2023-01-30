@@ -34,4 +34,6 @@ Your task is to write code to resolve the collated mortgage dataset for all hous
 
 Please write your solution as you would normally write production ready software.
 
+Please also provide a short README that explains any assumptions you made about the requirements and any design decisions you made in your solution.
+
 Good luck!
